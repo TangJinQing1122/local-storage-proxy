@@ -1,0 +1,21 @@
+{
+  "name": "@tangjinqing/local-storage-proxy",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["proxy","local-storage","local_storage_proxy"],
+  "author": "tangjinqing",
+  "license": "ISC",
+  "description": "proxy data.",
+  "dependencies": {
+    "dz-storage": "^1.0.8",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@tsconfig/node22": "^22.0.0",
+    "@types/node": "^22.10.2",
+    "typescript": "~5.6.3"
+  }
+}
