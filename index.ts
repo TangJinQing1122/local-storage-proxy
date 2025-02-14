@@ -5,7 +5,7 @@ interface ConfigInterface {
   [key: string]: any;
 }
 
-class LocalStorageProxy<T extends ConfigInterface> {
+export class LocalStorageProxy<T extends ConfigInterface> {
   private key: string;
   private defaultConfig: T;
 
