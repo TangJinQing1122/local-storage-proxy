@@ -3,6 +3,7 @@
   "version": "1.0.5",
   "main": "index.ts",
   "type": "module",
+  "repository": "https://github.com/TangJinQing1122/local-storage-proxy",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

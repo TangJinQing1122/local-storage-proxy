@@ -19,3 +19,6 @@ const defaultConfig = { someSetting: true };
 const localStorageProxy = new LocalStorageProxy(key, defaultConfig);
 const localKeyProxy = localStorageProxy.createProxy();
 ```
+
+
+- --

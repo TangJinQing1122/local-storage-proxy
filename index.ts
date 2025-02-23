@@ -35,10 +35,3 @@ export class LocalStorageProxy<T extends ConfigInterface> {
     return proxyConfig;
   }
 }
-
-// // use Egg.
-// const key = 'localKey';
-// const defaultConfig = { someSetting: true };
-
-// const localStorageProxy = new LocalStorageProxy(key, defaultConfig);
-// export const localKeyProxy = localStorageProxy.createProxy();
