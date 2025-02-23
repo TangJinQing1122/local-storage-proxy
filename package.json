@@ -1,6 +1,6 @@
 {
   "name": "@tangjinqing/local-storage-proxy",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.ts",
   "type": "module",
   "repository": "https://github.com/TangJinQing1122/local-storage-proxy",
